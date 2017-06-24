@@ -1,0 +1,68 @@
+
+@import url(https://fonts.googleapis.com/css?family=Roboto:100);
+body{
+  background-color: #5F90DE;
+}
+
+.navbar-default .navbar-brand{
+  color: #fff;
+}
+
+.navbar-default .navbar-nav>li>a{
+  color: #fff;
+}
+
+#section1 {
+  padding-top:110px;height:450px;color: #fff;
+}
+#section2 {
+  padding-top:100px;height:500px;color: #fff;
+}
+
+.navbar {
+background:rgba(0,0,0,0.2);   /* for latest browsers */
+}
+
+canvas {
+    display: block;
+    height: 100%;
+    width: 100%;
+    vertical-align: bottom;
+}
+
+.imsize {
+    height: 200px;
+    width: 200px;
+}
+
+#particles-js{
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  background-color: #5F90DE;
+}
+
+
+.overlap{
+  index: 50;
+  position: relative;
+}
+
+.ctext{
+  text-align: center;
+  padding-top: 30px;
+  font-size: 1.5em;
+  font-family: Roboto;
+}
+
+.contact{
+  text-align: center;
+  padding-top: 50px;
+  font-size: 1.5em;
+  font-family: Roboto;
+  color: black;
+}
+
+.texta{
+  font-size: 4em;
+}
